@@ -6,7 +6,7 @@ import sys
 sys.path.insert(0, os.path.abspath('..'))
 
 project = 'maths'
-copyright = '2022, suneel'
+copyright = '2022, sunil'
 author = 'suneel'
 release = '1.0.0'
 
